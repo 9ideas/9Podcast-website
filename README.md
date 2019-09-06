@@ -1,4 +1,4 @@
-Website for the Toronto Tech Podcast
+Website for the 9Ideas Podcast
 ====================================
 
 MRs welcome.
